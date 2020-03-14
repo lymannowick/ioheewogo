@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jiadaxahh.sadage.website/sitemap.xml
